@@ -1,0 +1,3 @@
+git remote add origin https://github.com/triguns123/my-test-react-app.git
+git branch -M main
+git push -u origin main
